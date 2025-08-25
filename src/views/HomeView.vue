@@ -25,7 +25,7 @@
 import ProjectCard from '../components/ProjectCard.vue'
 
 const projects = [
-  { title: 'E-commerce genérico', description: 'Tienda online simple con carrito', link: 'https://stirring-valkyrie-60c842.netlify.app/' },
+  { title: 'E-commerce genérico', description: 'Tienda online simple con carrito', link: 'https://e-commerce-plantilla-frontend.netlify.app/' },
   { title: 'Página institucional gimnasio', description: 'Web para Ongym Viedma', link: 'https://ongym-viedma.netlify.app/' },
   { title: 'Sistema de cobros', description: 'Próximamente', link: '#' },
 ]
