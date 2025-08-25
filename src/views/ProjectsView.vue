@@ -18,8 +18,8 @@
 import ProjectCard from '../components/ProjectCard.vue'
 
 const projects = [
-  { title: 'E-commerce genérico', description: 'Proyecto de tienda online', link: '#' },
-  { title: 'Página institucional gimnasio', description: 'Gimnasio Ongym', link: '#' },
+  { title: 'E-commerce genérico', description: 'Proyecto de tienda online', link: 'https://e-commerce-plantilla-frontend.netlify.app/' },
+  { title: 'Página institucional gimnasio', description: 'Gimnasio Ongym', link: 'https://ongym-viedma.netlify.app/' },
   { title: 'Sistema de cobros', description: 'Proximamente', link: '#' },
 ]
 </script>
